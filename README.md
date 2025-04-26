@@ -1,0 +1,2 @@
+# moicoin
+MoiCoin - cryptocurrency
